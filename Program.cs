@@ -4,7 +4,7 @@ using System.Timers;
 namespace TypingTimer
 {
     /// <summary>
-    /// Concept for sending a Typying signal in a chat after xx seconds while the user is Typing
+    /// Concept for sending a Typing signal in a chat after xx seconds while the user is Typing
     /// </summary>
     class Program
     {
